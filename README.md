@@ -1,4 +1,4 @@
 # WEB 231 Enterprise JavaScript I
-# Contributors:
+## Contributors:
 * Professor Krasso.
 * Nicole Nielsen.
