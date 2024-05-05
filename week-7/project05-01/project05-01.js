@@ -12,7 +12,7 @@
 
 // Constants to set the time given for the quiz in seconds
 // and the correct answers to each quiz question
-// Increase the time limit variable to 90
+// --- Increase the time limit variable to 90
 const quizTime = 90;
 const correctAnswers = ['10', '4', '-6', '5', '-7'];
 
@@ -31,7 +31,7 @@ let timeID;
 // and the node list for questions
 let questionList = document.querySelectorAll('div#quiz input');
 
-// Add event handler to start quiz, and set countdown timer with 1 second countdown intervals
+// --- Add event handler to start quiz, and set countdown timer with 1 second countdown intervals
 startQuiz.onclick = function () {
   overlay.className = 'showquiz';
   timeID = setInterval(countdown, 1000);
