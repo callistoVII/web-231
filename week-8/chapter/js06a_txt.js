@@ -4,8 +4,8 @@
       Chapter case
 
       Order Form Code
-      Author: Nicole Nielsen
-      Date: 05/11/2024
+      Author: 
+      Date:   
 
       Filename: js06a.js
  */
