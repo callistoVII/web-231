@@ -4,15 +4,15 @@
       Project 07-01
 
       Project to validate a form used for setting up a new account
-      Author: Nicole Nielsen
-      Date:   05/19/2024 
+      Author: 
+      Date:   
 
       Filename: project07-01.js
 */
 
 let signupForm = document.getElementById("signup");
 
-signupForm.addEventListener("submit", function(e) {
+signupForm.addEventListener("submit", function(e) { 
    let pwd = document.getElementById("pwd").value;
    let feedback = document.getElementById("feedback");
 
